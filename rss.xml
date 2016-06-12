@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cosmic Landscape]]></title>
         <description><![CDATA[Cosmic Landscape]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cosmic-landscape/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 04:49:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 12 Jun 2016 07:55:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cosmic-landscape/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Journey with me]]></title>
+            <description><![CDATA[<p>A journey alone can seem like the way to go for most people, but what got you here may not be what will get you there. If you're ready to let go of the lonesome cowboy show and want to jump on the caravan tour, I'll be happy to be your tour guide. </p>]]></description>
+            <link>https://thegrid.ai/cosmic-landscape/journey-with-me/index.html</link>
+            <guid isPermaLink="false">0d4aa772-b8bc-4088-95fb-88affefe65a0</guid>
+            <pubDate>Sun, 12 Jun 2016 07:55:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0ab1999-a9ae-47ff-917a-249904b34649.jpg">]]></description>
-            <link>undefinedindeed-we-earthlings-are-made-of-particles-shared-with/index.html</link>
+            <link>https://thegrid.ai/cosmic-landscape/indeed-we-earthlings-are-made-of-particles-shared-with/index.html</link>
             <guid isPermaLink="false">38d0b176-5b9e-4a53-ba81-e53a4eab275a</guid>
             <pubDate>Sun, 12 Jun 2016 04:49:11 GMT</pubDate>
         </item>
